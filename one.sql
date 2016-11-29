@@ -54,7 +54,7 @@ order by s.Field1, i.data_id
 -- select * 
 -- from invn_view_work.SCRA_20150429
 
--- small change here
+-- small change here and then a little more
 
 
 select * from invn_view_work.SCRA_20150930
