@@ -55,6 +55,8 @@ order by s.Field1, i.data_id
 -- from invn_view_work.SCRA_20150429
 
 -- removed old change and now I replaced with similar
+-- you are one crazy guy
+
 
 
 
